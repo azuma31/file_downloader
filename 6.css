@@ -1,3 +1,15 @@
 ﻿body {
         background-color: gray;
 }
+
+/* 親要素のマージンとパディングをリセット */
+.parent-element {
+    margin: 0;
+    padding: 0;
+}
+
+/* 画像のマージンとパディングをリセット */
+img {
+    margin: 0;
+    padding: 0;
+}
